@@ -1,0 +1,15 @@
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\bin\Debug\net6.0\LISTA H1 EX 5.exe
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\bin\Debug\net6.0\LISTA H1 EX 5.deps.json
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\bin\Debug\net6.0\LISTA H1 EX 5.runtimeconfig.json
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\bin\Debug\net6.0\LISTA H1 EX 5.dll
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\bin\Debug\net6.0\LISTA H1 EX 5.pdb
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.csproj.AssemblyReference.cache
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.AssemblyInfoInputs.cache
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.AssemblyInfo.cs
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.csproj.CoreCompileInputs.cache
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.dll
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\refint\LISTA H1 EX 5.dll
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.pdb
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\LISTA H1 EX 5.genruntimeconfig.cache
+D:\Programação\C#\Lista 3 H1 EX5\LISTA H1 EX 5\LISTA H1 EX 5\obj\Debug\net6.0\ref\LISTA H1 EX 5.dll
